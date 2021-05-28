@@ -32,4 +32,10 @@ sonuc = 3 ** 8
 sonuc = 64 ** 0.5
 
 
+#işlem önceliğine göre
+
+sonuc = 8 + 4 * 3 / 2 - 18
+
+sonuc = (8 + 4) * 3 / 2 - 18
+
 print(sonuc)
